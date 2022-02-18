@@ -79,6 +79,7 @@ body {
   justify-content: space-between;
 }
 .k1_pp .k1_media .kk_icn a img {
+  border-radius: 50%;
   width: 45px;
   transition: 0.2s;
 }
